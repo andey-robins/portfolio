@@ -180,7 +180,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Selected publications highlighted here. See google scholar for complete publication history.
         {{% /callout %}}
       filters:
         folders:
