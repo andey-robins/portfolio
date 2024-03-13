@@ -25,7 +25,9 @@ tags:
 - Source Themes
 featured: false
 
-links:
+# links:
+# - name: ""
+# #   url: ""
 url_pdf: 'uploads/saga_poster.pdf'
 url_code: ''
 url_dataset: ''
